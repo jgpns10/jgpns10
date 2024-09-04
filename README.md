@@ -1,4 +1,4 @@
-# João Gabriel <img src="https://media3.giphy.com/media/tgWX6N4nHQjNC/giphy.gif?cid=6c09b9528htwbv8f4s89k6emfiz5u1zap8w22se7arfexrt7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50px">
+# João Gabriel <img src="https://media3.giphy.com/media/tgWX6N4nHQjNC/giphy.gif?cid=6c09b9528htwbv8f4s89k6emfiz5u1zap8w22se7arfexrt7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="65px">
 
 Eu sou <strong>João Gabriel</strong>, <strong>Tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac e atualmente estou no primeiro período</strong> 👨🏻‍💻 
 
