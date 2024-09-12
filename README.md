@@ -4,7 +4,7 @@ Eu sou <strong>João Gabriel</strong>, <strong>Tenho 18 anos, sou estudante de A
 
 - 🚀 Atualmente estou aprendendo: <strong>HTML5 e CSS3, Javascript</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogar futebol e ver séries</strong>
-- 📣 Nós podemos falar em: <strong>Português e em Inglês</strong>
+- 📣 Nós podemos falar em: <strong>Português e em Inglês</strong> 
 
 ![VisitorCount](https://profile-counter.glitch.me/{jgpns10}/count.svg)
 <div align="center">
