@@ -2,8 +2,8 @@
 
 Eu sou <strong>João Gabriel</strong>, <strong>Tenho 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac e atualmente estou no primeiro período</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>HTML5 e CSS3, Javascript</strong> 
-- 💬 Pergunte-me sobre: <strong>Jogar futebol e ver séries</strong>
+- 🚀 Atualmente estou aprendendo: <strong>HTML5 e CSS3, Javascript pelo curso do professor Gustavo Guanabara</strong> 
+- 💬 Pergunte-me sobre: <strong>Estudo de códigos e algumas linguagens de programação</strong>
 - 📣 Nós podemos falar em: <strong>Português e em Inglês</strong> 
 
 ![VisitorCount](https://profile-counter.glitch.me/{jgpns10}/count.svg)
