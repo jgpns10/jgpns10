@@ -6,7 +6,6 @@ Eu sou <strong>João Gabriel</strong>, <strong>Tenho 19 anos, me interessei pelo
 - 💬 Pergunte-me sobre: <strong>Estudo de códigos e algumas linguagens de programação</strong>
 - 📣 Nós podemos falar em: <strong>Português e em Inglês</strong> 
 
-![VisitorCount](https://profile-counter.glitch.me/{jgpns10}/count.svg)
 <div align="center">
 
   <a href="mailto:jgpns10@gmail.com" target = "_blank" alt="Gmail">
